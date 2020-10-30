@@ -1,3 +1,11 @@
+
+/*
+File name: app.js
+Author: Anuben Keshavala
+Student ID: 301120629
+Web app name: Mid-Term Test
+*/
+
 /* custom JS goes here */
 
 /* pagination code from http://www.bootply.com/lxa0FF9yhw */
